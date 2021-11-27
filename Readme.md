@@ -1,19 +1,13 @@
-# 10x Academy JavaScript Assignments
+# Array Operations
 
-## Curated list of JavaScript Assignments to make you familiar with the concepts of the language
+## Perform different operations on provided array using their appropriate methods and return the result
 
-<br />  
-  
-[Assignments:](assignments)
-* [BMI Calculator](assignments/bmi_calculator/BMICalculator.md)
-* [Favourite Movie](assignments/favourite_movie/FavouriteMovie.md)
-* [Can Drive](assignments/can_drive/CanDrive.md)
-* [Run Callback](assignments/run_callback/RunCallback.md)
-* [Play With Array](assignments/play_with_array/PlayWithArray.md)
-* [Create Object](assignments/create_object/CreateObject.md)
+Instructions
+* There are a few functions added in the JS file, you need to add your code to perform the operations, find the examples below
+    * In the getEven function, you need to return the even numbers of array
+    * In the multiplyByN function, you need to return the array with the elements multiplied by n
+* You would find more information about the functions in the [play_with_array.js](../../assignments/play_with_array/play_with_array.js) file itself
+* You would receive an array as an input
+* Return the result after peforming the desired operation
 
-## Please follow these steps before submitting
-* Create a new branch off master to code your solution into
-* Check if you have followed the instructions properly
-* Run ```npm run test``` and see if all the test cases are passed
-* If all the tests are passed, push the code and raise the PR 
+Run ```npm run test:file play_with_array``` to test your code
